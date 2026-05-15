@@ -1,0 +1,2 @@
+seqnames	start	end	width	strand	protein_id	tx_id	exon_id	exon_rank	cds_ok	protein_start	protein_end
+12	2834804	2834833	30	-	ENSP00000438338	ENST00000542386	ENSE00002288942	2	FALSE	1	10
